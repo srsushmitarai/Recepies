@@ -2,5 +2,6 @@ Hello everyone
 welcome to this platform
  a. Pizza
  b. burger
- 
+ c. paneer makhne
 Done
+Final
